@@ -1,0 +1,26 @@
+{
+  "name": "@ghasemkiani/graph",
+  "version": "1.0.0",
+  "description": "A simple graph class",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ghasemkiani/graph.git"
+  },
+  "keywords": [
+    "graph"
+  ],
+  "author": "Ghasem Kiani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ghasemkiani/graph/issues"
+  },
+  "homepage": "https://gitlab.com/ghasemkiani/graph#readme",
+  "dependencies": {
+    "@ghasemkiani/base": "github:ghasemkiani/base"
+  }
+}
