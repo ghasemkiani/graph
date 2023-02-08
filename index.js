@@ -78,7 +78,6 @@ class Graph extends Obj {
 			items = [];
 			for (let item of itms) {
 				if (item[item.length - 1] === name2) {
-					console.log(item);
 					paths.push(item);
 				} else {
 					items.push(item);
